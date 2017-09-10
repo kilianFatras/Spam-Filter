@@ -1,2 +1,2 @@
 # Spam-Filter
-From a email database, we want to filter the spam email. I do this project with Artix41 [https://github.com/artix41]
+The purpose of this project is to detect if an email is a spam or not. I worked on this project with Artix41 [https://github.com/artix41]
